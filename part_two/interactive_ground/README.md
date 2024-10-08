@@ -1,16 +1,11 @@
 # interactive_ground
 
-A new Flutter project.
+Contains full example for interactive ground
+- Ground design
+- Fielding position above ground
+- logic to get the fielding position
+- animate line to indicate user input
 
-## Getting Started
+## Visual
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![screenshot](/Users/sidhdhi.p/Desktop/Flutter-Practices/interactive_cricketground_flutter/part_two/interactive_ground/screenshot/ss1.gif)
