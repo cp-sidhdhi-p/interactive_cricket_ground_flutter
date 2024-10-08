@@ -8,4 +8,4 @@ Contains full example for interactive ground
 
 ## Visual
 
-![screenshot](/screenshot/ss1.gif)
+![screenshot](/part_two/interactive_ground/screenshot/ss1.gif)

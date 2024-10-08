@@ -7,5 +7,5 @@ Contains the part One for the interactive ground.
 
 ## Visuals
 
-![screenshot](/screenshot/ss1.png)
+![screenshot](/part_one/interactive_ground/screenshot/ss1.png)
 
