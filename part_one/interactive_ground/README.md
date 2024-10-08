@@ -7,5 +7,5 @@ Contains the part One for the interactive ground.
 
 ## Visuals
 
-![screenshot](/Users/sidhdhi.p/Desktop/Flutter-Practices/interactive_cricketground_flutter/part_one/interactive_ground/screenshot/ss1.png)
+![screenshot](/screenshot/ss1.png)
 

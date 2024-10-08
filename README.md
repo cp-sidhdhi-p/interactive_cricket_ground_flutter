@@ -7,8 +7,8 @@ Directory:
 ## Visual
 
 part_one
-![screenshot 1](/Users/sidhdhi.p/Desktop/Flutter-Practices/interactive_cricketground_flutter/part_one/interactive_ground/screenshot/ss1.png)
+![screenshot 1](/part_one/interactive_ground/screenshot/ss1.png)
 
 
 part_two
-![screen recording gif](/Users/sidhdhi.p/Desktop/Flutter-Practices/interactive_cricketground_flutter/part_two/interactive_ground/screenshot/ss1.gif)
+![screen recording gif](/part_two/interactive_ground/screenshot/ss1.gif)

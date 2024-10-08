@@ -8,4 +8,4 @@ Contains full example for interactive ground
 
 ## Visual
 
-![screenshot](/Users/sidhdhi.p/Desktop/Flutter-Practices/interactive_cricketground_flutter/part_two/interactive_ground/screenshot/ss1.gif)
+![screenshot](/screenshot/ss1.gif)
