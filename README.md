@@ -7,8 +7,10 @@ Directory:
 ## Visual
 
 part_one
+
 ![screenshot 1](/part_one/interactive_ground/screenshot/ss1.png)
 
 
 part_two
+
 ![screen recording gif](/part_two/interactive_ground/screenshot/ss1.gif)
